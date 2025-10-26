@@ -6,7 +6,7 @@ Vor'cha class
 
 Negh'Var class
 
-D4 class
+D4 class deleted locally
 
-Raptor class
+Raptor class deleted locally
 
