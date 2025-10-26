@@ -2,9 +2,9 @@ D7 class remotely modified
 
 Bird-of-Prey class
 
-Vor'cha class deleted locally
+Vor'cha class
 
-Negh'Var class deleted locally
+Negh'Var class
 
 D4 class remotely modified
 
