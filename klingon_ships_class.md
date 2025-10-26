@@ -6,7 +6,7 @@ Vor'cha class
 
 Negh'Var class
 
-D4 class delete remotely
+D4 class delete remotely now
 
-Raptor class delete remotely
+Raptor class delete remotely now
 
