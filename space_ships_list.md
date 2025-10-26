@@ -1,8 +1,8 @@
 USS Enterprise-C
 
-USS Defiant deleted remotely
+USS Defiant modified locally
 
-USS Excelsior II - NCC 42037 deleted remotely
+USS Excelsior II - NCC 42037 modified locally
 
 USS Stargazer - NCC 82893
 
